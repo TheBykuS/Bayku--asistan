@@ -1,0 +1,37 @@
+{
+    "tarih": [
+        {"soru": "1923 yılında Türkiye Cumhuriyeti'nin kurucusu kimdir?", "cevap": "Mustafa Kemal Atatürk"},
+        {"soru": "İkinci Dünya Savaşı hangi yıllar arasında gerçekleşti?", "cevap": "1939-1945"},
+        {"soru": "Çanakkale Savaşı hangi tarihler arasında yapılmıştır?", "cevap": "1915-1916"},
+        {"soru": "Malazgirt Savaşı hangi tarihte olmuştur?", "cevap": "1071"},
+        {"soru": "Fatih Sultan Mehmet hangi yıl İstanbul'u fethetmiştir?", "cevap": "1453"}
+    ],
+    "bilim": [
+        {"soru": "Su molekülünün kimyasal formülü nedir?", "cevap": "H2O"},
+        {"soru": "Einstein'ın ünlü formülü nedir?", "cevap": "E=mc²"},
+        {"soru": "Newton'un hareket yasaları kaç tanedir?", "cevap": "3"},
+        {"soru": "Dünyanın en büyük gezegeni hangisidir?", "cevap": "Jüpiter"},
+        {"soru": "İnsan vücudunda kaç kemik vardır?", "cevap": "206"}
+    ],
+    "pop kültürü": [
+        {"soru": "Harry Potter serisinin yazarı kimdir?", "cevap": "J.K. Rowling"},
+        {"soru": "Titanic filminde Jack Dawson'ı kim canlandırdı?", "cevap": "Leonardo DiCaprio"},
+        {"soru": "The Beatles'ın üyelerinden biri kimdir?", "cevap": "John Lennon"},
+        {"soru": "Friends dizisinin karakterlerinden biri kimdir?", "cevap": "Rachel Green"},
+        {"soru": "Star Wars serisinin ilk filmi hangi yılda çıkmıştır?", "cevap": "1977"}
+    ],
+    "coğrafya": [
+        {"soru": "Dünyanın en büyük okyanusu hangisidir?", "cevap": "Pasifik Okyanusu"},
+        {"soru": "Türkiye'nin başkenti hangi şehirdir?", "cevap": "Ankara"},
+        {"soru": "Avrupa'nın en uzun nehri hangisidir?", "cevap": "Volga"},
+        {"soru": "Afrika'nın en büyük ülkesi hangisidir?", "cevap": "Cezayir"},
+        {"soru": "Dünyanın en yüksek dağı hangisidir?", "cevap": "Everest"}
+    ],
+    "spor": [
+        {"soru": "2018 FIFA Dünya Kupası'nı hangi ülke kazandı?", "cevap": "Fransa"},
+        {"soru": "NBA tarihinin en çok sayı atan oyuncusu kimdir?", "cevap": "Kareem Abdul-Jabbar"},
+        {"soru": "Olimpiyatlar kaç yılda bir düzenlenir?", "cevap": "4"},
+        {"soru": "Futbolda en fazla Dünya Kupası kazanan ülke hangisidir?", "cevap": "Brezilya"},
+        {"soru": "Türkiye Süper Lig'inde en çok şampiyon olan takım hangisidir?", "cevap": "Galatasaray"}
+    ]
+}
